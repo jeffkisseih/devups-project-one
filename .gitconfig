@@ -1,0 +1,7 @@
+[user]
+	name = Honekree
+	email = quabelj@email.com
+[credential]
+	helper = store
+[safe]
+	directory = /home/my-project2
