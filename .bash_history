@@ -247,3 +247,150 @@ git add file4.txt
 git push
 ls
 cat file4.txt
+ssh-keygen -t ed25519 -C "quabelj@gmail.com"
+cat ~/.ssh/id_ed25519.pub
+echo "# devops-project-one" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/jeffkisseih/devops-project-one.git
+git push -u origin main
+cat ~/.ssh/id_ed25519.pub
+ssh-keygen -t ed25519 -C "jeffteye86@gmail.com"
+cat ~/.ssh/id_ed25519.pub
+cat ~/ .ssh/id_ed25519.pub
+git remote remove origin
+git push -u origin main
+git add .
+ls
+rm -r ymail.txt
+cat ymail.txt
+ls
+del ymail.txt
+git remote add origin git@github.com:jeffkisseih/devops-project-one.git
+git branch -M main
+git push -u origin main
+ssh-keygen -t ed25519 -C "quabelj@gmail.com"
+cat ~/.ssh/id_ed25519.pub
+git clone git@github.com:jeffkisseih/devops-project-one.git
+git config --global gpg.format ssh
+git config --global user.signingkey ~/.ssh/id_ed25519.pub
+git config --global commit.gpgsign true
+echo "# devops-project-one" >> README.md
+git init
+git add README.md
+git commit -m "First commit"
+clear
+git clone https://github.com/jeffkisseih/devops-project-one.git
+ls
+cat devops-project-one
+nano devops-project-one
+echo "# devops-project-two" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/jeffkisseih/devops-project-two.git
+git push -u origin main
+cat ~/.ssh/id_ed25519.pub
+git clone git@github.com:jeffkisseih/devops-project-two.git
+ls
+cd devops-project-one
+cat ~/.ssh/id_ed25519.pub
+git clone git@github.com:jeffkisseih/devops-project-two.git
+ls
+cd /
+cd /home
+cd home
+cd /.
+cd .
+ls
+cd /home
+ls
+clear
+ls
+cd /home
+ls
+cd
+clear
+ls
+git clone https://github.com/jeffkisseih/devups-project-one.git
+echo "Devops file" > README.md
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/jeffkisseih/devups-project-one.git
+git push
+git push -u origin main
+clear
+mkdir devups-project-one
+ls
+cd devups-project-one
+git clone https://github.com/jeffkisseih/devups-project-one.git
+echo "# devups-project-one" >> README.md
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/jeffkisseih/devups-project-one.git
+git push -u origin main
+git push
+ping github.com
+git remote -v
+ssh -T git@github.com
+git push
+nslookup github.com
+sudo git push
+sudo apt install bind9-dnsutils
+ping 8.8.8.8
+cd devups-project-one
+git push
+curl https://google.com
+git remote -v
+git push
+git remote set-url origin git@github.com:jeffkisseih/devups-project-one.git
+git push
+git remote -v
+git push
+.ssh/id_ed25519
+cd devups-project-one
+.ssh/id_ed25519
+git rm --cached .ssh/id_ed25519
+ls
+ls -a
+cd
+rmdir devups-project-one
+git rev-parse --show-toplevel
+cd devups-project-one
+git push
+rm README.md
+ls
+ls -a
+clear
+echo "# devups-project-one" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:jeffkisseih/devups-project-one.git
+git push -u origin main
+git clone https://github.com/jeffkisseih/devups-project-one.git
+ssh-keygen -t ed25519 C "quabelj@gmail.com"
+ssh-keygen -t ed2519 -C "quabelj@gmail.com"
+ssh-keygen -t ed25519 -C "quabelj@gmail.com"
+cat ~/.ssh/id_ed25519
+git remote remove origin
+git remote add origin git@github.com:jeffkisseih/devups-project-one.git
+git push 
+git push -u origin main
+git clone git@github.com:jeffkisseih/devups-project-one.git
+cat ~/.ssh/id_ed255219.pub
+ssh-keygen -t ed25519 -C "quabelj@gmail.com"
+cat ~/.ssh/id_ed25519.pub
+git remote remove origin
+git remote add origin git@github.com:jeffkisseih/devups-project-one.git
+git push -u origin main
+git clone git@github.com:jeffkisseih/devups-project-one.git
+ls
+git init

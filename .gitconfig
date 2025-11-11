@@ -1,7 +1,12 @@
 [user]
 	name = Honekree
 	email = quabelj@email.com
+	signingkey = /home/eff_jeff/.ssh/id_ed25519.pub
 [credential]
 	helper = store
 [safe]
 	directory = /home/my-project2
+[gpg]
+	format = ssh
+[commit]
+	gpgsign = true
